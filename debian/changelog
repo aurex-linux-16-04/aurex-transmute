@@ -1,3 +1,9 @@
+aurex-transmute (16.04.13) xenial; urgency=medium
+
+  * Added preseed for oracle-java10-installer
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 16 May 2018 15:36:14 +0200
+
 aurex-transmute (16.04.12) xenial; urgency=medium
 
   * Added preseed for oracle-java8-installer and oracle-java9-installer
